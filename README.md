@@ -1,5 +1,5 @@
 # deep-learning-with-python
-책 〈케라스 창시자에게 배우는 딥러닝〉
+책 〈[케라스 창시자에게 배우는 딥러닝](https://tensorflow.blog/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EB%94%A5%EB%9F%AC%EB%8B%9D/)〉
 
 ### 목차
 - __2장. 시작하기 전에 : 신경망의 수학적 구성 요소__   
