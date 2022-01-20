@@ -9,4 +9,4 @@
 - __4장. 머신 러닝의 기본 요소__  
 머신러닝 네가지 분류 / [머신러닝 모델 평가](https://github.com/dddonghwa/deep-learning-with-python/blob/main/ch4_ml_basic/%08ch4_02_ml_basic.ipynb) 
 - __5장. 컴퓨터 비전을 위한 딥러닝__  
-소규모 데이터셋에서 컨브넷 훈련하기 / 사전 훈련된 컨브넷 사용하기 / 컨브넷 
+소규모 데이터셋에서 컨브넷 훈련하기 / 사전 훈련된 컨브넷 사용하기 / 컨브넷 학습 시각화
